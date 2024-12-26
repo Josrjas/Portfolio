@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="649.297" height="678.471" viewBox="0 0 649.297 678.471">
+  <g id="hero-dec1" transform="translate(410.021 93.359)">
+    <g id="hero-dec2" transform="matrix(0.996, -0.087, 0.087, 0.996, -433.028, 93.138)">
+      <g id="Rectángulo_4" data-name="Rectángulo 4" transform="matrix(0.978, -0.208, 0.208, 0.978, 14.482, 98.446)" fill="none" stroke="#fff" stroke-width="16">
+        <rect width="413.221" height="413.221" rx="26" stroke="none"/>
+        <rect x="8" y="8" width="397.221" height="397.221" rx="18" fill="none"/>
+      </g>
+      <g id="Rectángulo_3" data-name="Rectángulo 3" transform="matrix(0.978, -0.208, 0.208, 0.978, 22.064, 85.913)" fill="none" stroke="#e49429" stroke-width="16">
+        <rect width="413.221" height="413.221" rx="26" stroke="none"/>
+        <rect x="8" y="8" width="397.221" height="397.221" rx="18" fill="none"/>
+      </g>
+    </g>
+    <g id="hero-dec" transform="matrix(0.996, -0.087, 0.087, 0.996, -248.18, -59.984)">
+      <g id="Rectángulo_4-2" data-name="Rectángulo 4" transform="matrix(0.978, -0.208, 0.208, 0.978, -0.784, 111.123)" fill="none" stroke="#fff" stroke-width="16">
+        <rect width="362.486" height="362.486" rx="26" stroke="none"/>
+        <rect x="8" y="8" width="346.486" height="346.486" rx="18" fill="none"/>
+      </g>
+      <g id="Rectángulo_3-2" data-name="Rectángulo 3" transform="matrix(0.978, -0.208, 0.208, 0.978, 28.368, 75.365)" fill="none" stroke="#db1515" stroke-width="16">
+        <rect width="362.486" height="362.486" rx="26" stroke="none"/>
+        <rect x="8" y="8" width="346.486" height="346.486" rx="18" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

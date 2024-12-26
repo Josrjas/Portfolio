@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="794.991" height="794.511" viewBox="0 0 794.991 794.511">
+  <g id="atom_illustration" data-name="atom illustration" transform="matrix(0.985, 0.174, -0.174, 0.985, 707.791, -5460.79)" opacity="0.5">
+    <g id="Elipse_1" data-name="Elipse 1" transform="translate(992.745 5539.898) rotate(120)" fill="none" stroke="#e13636" stroke-width="10">
+      <ellipse cx="385.657" cy="101.913" rx="385.657" ry="101.913" stroke="none"/>
+      <ellipse cx="385.657" cy="101.913" rx="380.657" ry="96.913" fill="none"/>
+    </g>
+    <g id="Elipse_2" data-name="Elipse 2" transform="translate(607.088 5437.985) rotate(60)" fill="none" stroke="#e13636" stroke-width="10">
+      <ellipse cx="385.657" cy="101.913" rx="385.657" ry="101.913" stroke="none"/>
+      <ellipse cx="385.657" cy="101.913" rx="380.657" ry="96.913" fill="none"/>
+    </g>
+    <g id="Elipse_4" data-name="Elipse 4" transform="translate(326 5721.018)" fill="none" stroke="#e13636" stroke-width="10">
+      <ellipse cx="385.657" cy="101.913" rx="385.657" ry="101.913" stroke="none"/>
+      <ellipse cx="385.657" cy="101.913" rx="380.657" ry="96.913" fill="none"/>
+    </g>
+    <circle id="Elipse_5" data-name="Elipse 5" cx="19" cy="19" r="19" transform="matrix(0.985, -0.174, 0.174, 0.985, 689.241, 5808.098)" fill="#e13636" opacity="0.5"/>
+  </g>
+</svg>

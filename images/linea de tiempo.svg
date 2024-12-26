@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="668" height="217" viewBox="0 0 668 217">
+  <g id="linea_de_tiempo" data-name="linea de tiempo" transform="translate(-82 -4728)">
+    <g id="Grupo_21" data-name="Grupo 21" transform="translate(101.124 4903.667)">
+      <path id="Trazado_7" data-name="Trazado 7" d="M186.317,4832.465v17.8h63.694v-17.8" transform="translate(132.204 -4832.465)" fill="none" stroke="#fff" stroke-width="3"/>
+      <path id="Trazado_7-2" data-name="Trazado 7" d="M186.317,4832.465v17.8h63.694v-17.8" transform="translate(195.912 -4832.465)" fill="none" stroke="#fff" stroke-width="3"/>
+      <path id="Trazado_7-3" data-name="Trazado 7" d="M186.317,4832.465v17.8h63.694v-17.8" transform="translate(259.619 -4832.465)" fill="none" stroke="#fff" stroke-width="3"/>
+      <path id="Trazado_7-4" data-name="Trazado 7" d="M186.317,4832.465v17.8h63.694v-17.8" transform="translate(323.326 -4832.465)" fill="none" stroke="#fff" stroke-width="3"/>
+      <path id="Trazado_7-5" data-name="Trazado 7" d="M186.317,4832.465v17.8h63.694v-17.8" transform="translate(387.033 -4832.465)" fill="none" stroke="#fff" stroke-width="3"/>
+      <path id="Trazado_7-6" data-name="Trazado 7" d="M186.317,4832.465v17.8h63.694v-17.8" transform="translate(-186.317 -4832.464)" fill="none" stroke="#fff" stroke-width="3"/>
+      <path id="Trazado_7-7" data-name="Trazado 7" d="M186.317,4832.465v17.8h63.694v-17.8" transform="translate(-122.61 -4832.464)" fill="none" stroke="#fff" stroke-width="3"/>
+      <path id="Trazado_7-8" data-name="Trazado 7" d="M186.317,4832.465v17.8h63.694v-17.8" transform="translate(-58.903 -4832.464)" fill="none" stroke="#fff" stroke-width="3"/>
+      <path id="Trazado_7-9" data-name="Trazado 7" d="M186.317,4832.465v17.8h63.694v-17.8" transform="translate(4.804 -4832.464)" fill="none" stroke="#fff" stroke-width="3"/>
+      <path id="Trazado_7-10" data-name="Trazado 7" d="M186.317,4832.465v17.8h63.694v-17.8" transform="translate(68.511 -4832.464)" fill="none" stroke="#fff" stroke-width="3"/>
+    </g>
+    <text id="_2018" data-name="2018" transform="translate(82 4941)" fill="#fff" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">2018</tspan></text>
+    <text id="_2019" data-name="2019" transform="translate(213 4941)" fill="#fff" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">2019</tspan></text>
+    <text id="_2020" data-name="2020" transform="translate(339 4941)" fill="#fff" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">2020</tspan></text>
+    <text id="_2021" data-name="2021" transform="translate(469 4941)" fill="#fff" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">2021</tspan></text>
+    <text id="_2022" data-name="2022" transform="translate(595 4941)" fill="#fff" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">2022</tspan></text>
+    <text id="_2023" data-name="2023" transform="translate(721 4941)" fill="#fff" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">2023</tspan></text>
+    <line id="Línea_3" data-name="Línea 3" x2="255.799" transform="translate(101.124 4882.487)" fill="none" stroke="#e13636" stroke-width="6" stroke-dasharray="9"/>
+    <line id="Línea_5" data-name="Línea 5" x2="442.449" transform="translate(230.023 4822.113)" fill="none" stroke="#36e158" stroke-width="6" stroke-dasharray="9"/>
+    <line id="Línea_4" data-name="Línea 4" x2="311.993" transform="translate(360.479 4761.595)" fill="none" stroke="#36e1ca" stroke-width="6" stroke-dasharray="9"/>
+    <text id="Diseñador_grafico" data-name="Diseñador grafico" transform="translate(161 4865)" fill="#e13636" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Diseñador grafico</tspan></text>
+    <text id="Desarrollador_Web" data-name="Desarrollador Web" transform="translate(445 4744)" fill="#36e1ca" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Desarrollador Web</tspan></text>
+    <text id="Diseñador_Publicitario" data-name="Diseñador Publicitario" transform="translate(367 4805)" fill="#36e158" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Diseñador Publicitario</tspan></text>
+  </g>
+</svg>
